@@ -19,3 +19,4 @@ Each cell in the grid interacts with its eight surrounding neighbours—the cell
 
 Using the SDL, the automaton is visualised and creates interesting patterns.
 
+# Example
