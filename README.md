@@ -11,9 +11,9 @@ Each cell in the grid interacts with its eight surrounding neighbors—the cells
 - A living cell with more than three living neighbors dies, simulating overcrowding.
 - A dead cell with exactly three living neighbors becomes alive, simulating reproduction.
 
-Key p is to pause
-Key s is to save the current sdl window
-Key q is to quit
+- Key p is to pause
+- Key s is to save the current sdl window
+- Key q is to quit
 
 # Output
 
