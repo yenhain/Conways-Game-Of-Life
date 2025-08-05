@@ -20,3 +20,4 @@ Each cell in the grid interacts with its eight surrounding neighbours—the cell
 Using the SDL, the automaton is visualised and creates interesting patterns.
 
 # Example
+[![Watch the demo video](https://github.com/yenhain/Conways-Game-Of-Life/raw/main/Screenshot%20from%202025-08-05%2018-24-19.png)](https://github.com/yenhain/Conways-Game-Of-Life/raw/main/Screencast%20from%202025-08-05%2017-48-49.mp4)
